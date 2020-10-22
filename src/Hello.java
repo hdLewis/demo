@@ -7,6 +7,5 @@ public class Hello {
         System.out.println("云端修改修改");
         System.out.println("云端第二次修改修改");
         System.out.println("111111");
-        System.out.println("22222");
     }
 }
