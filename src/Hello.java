@@ -1,3 +1,4 @@
+/*
 public class Hello {
 
     public static class Student{
@@ -36,24 +37,33 @@ public class Hello {
 
 
     public static void main(String[] args) {
-       /* System.out.println("hello world!");
+       */
+/* System.out.println("hello world!");
         System.out.println("Nice day ");
         System.out.println("A");
         System.out.println("新建分支修改");
         System.out.println("云端修改修改");
         System.out.println("云端第二次修改修改");
-        System.out.println("111111");*/
-      /*  String str="abdasdfwrgasdfasdfafweadfasdfasd";
+        System.out.println("111111");*//*
 
-       *//* for (int i = 0; i < str.toCharArray().length; i++) {
+      */
+/*  String str="abdasdfwrgasdfasdfafweadfasdfasd";
+
+       *//*
+*/
+/* for (int i = 0; i < str.toCharArray().length; i++) {
             System.out.println(str.toCharArray()[i]);
         }*//*
+*/
+/*
         for (int i = 0; i < str.length(); i++) {
             System.out.println(str.charAt(i));
-        }*/
+        }*//*
+
 
         Student student=new Student().setName("hahaha").setAge(12).setSex('男');
         System.out.println(student);
 
     }
 }
+*/
